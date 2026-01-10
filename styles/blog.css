@@ -1,14 +1,14 @@
-nav li a{
+nav  li  {
     list-style: none;
     display: inline;
-    margin-right: 15px;
-
+    margin-right:20px;
+    padding: 50px; ;
 }
 nav li:hover{
     background-color: blue;
 }
 
 
-nav li{
+nav  li a {
     text-decoration: none;
 }
